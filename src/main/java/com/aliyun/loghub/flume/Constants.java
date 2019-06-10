@@ -52,4 +52,9 @@ public class Constants {
 
     public static final String APPEND_LOCAL_TIME = "appendLocalTime";
     public static final String LOCAL_TIME_FIELD_NAME = "localTimeFieldName";
+
+    /**
+     * randomly drop source line percent, default to 0
+     */
+    public static final String SOURCE_DROP_PERCENT = "dropPercent";
 }
